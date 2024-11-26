@@ -70,7 +70,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'asistencia.wsgi.application'
 
 
-# Database
+# Databaseasdasdasd
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
